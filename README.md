@@ -1,7 +1,7 @@
 # LinkedIn - React
 This is a LinkedIn clone application .
 
-![localhost img](https://github.com/LimaCarol/linkedin-react/blob/master/public/localhost.png)
+![localhost img](https://github.com/LimaCarol/linkedin-react/blob/main/public/localhost.png)
 
 ## Features
 - React
